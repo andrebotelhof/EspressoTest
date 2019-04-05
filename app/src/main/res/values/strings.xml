@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EspressoLoginTest</string>
+    <string name="toast">"Usuário e/ou senha inválido"</string>
+</resources>
